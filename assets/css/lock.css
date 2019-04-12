@@ -1,0 +1,22 @@
+form{	
+   /* border:6px #FFAC55 dashed;
+    padding:50px 10px;
+    border-radius:5%;*/
+    margin: 15% 10%;
+    border: 100px solid transparent;
+    border-image: url(assets/image/form.png) 40% round;
+}
+  
+
+div.gg{
+}
+
+
+.topnav2 {
+    margin-top: 5%;
+    margin-right: 8%;
+    margin-left: 8%;
+    z-index: -1;
+    text-align: center;
+    clear:both;
+}
